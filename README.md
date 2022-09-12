@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @liankorExe
+- 👀 I’m interested in the Website developement 
+- 🌱 I’m currently learning JS / CSS / HTML/ PYTHON
