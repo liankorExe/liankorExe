@@ -3,5 +3,7 @@
  <h2 align="center">Liankor Stats</h2>
 </p>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=liankorExe&show_icons=true&theme=radical" align="center" alt="GitHub Readme Stats" />
-
-
+<p align="center">
+ <img width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liankorExe&layout=compact" align="center" alt="GitHub Readme Stats" />
+</p>
+##
