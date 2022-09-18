@@ -11,7 +11,7 @@
 </p>
 <p>
 <h2 align="center">👋・Hello, i'am liankor</h2>
-<p>
+<p align="center">
     🇫🇷・I'am a French developer.
     I like Javascript, Html, Css and Python
 </p>
