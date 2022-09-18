@@ -8,6 +8,6 @@
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liankorExe&layout=compact" align="center" alt="GitHub Readme Stats" />
 </p>
 <p align="center">
- <img width="100px" src="https://github.com/liankorExe/liankorExe/blob/main/pp.jpg" border-radius="30px" align="center" alt="GitHub Readme Stats" />
- <h3>🛎・Me</h3>
+ <img width="300px" src="https://github.com/liankorExe/liankorExe/blob/main/pp.jpg" border-radius="30px" align="center" alt="GitHub Readme Stats" />
+ <h3 align="center">🛎・Me</h3>
 </p>
