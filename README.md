@@ -9,5 +9,5 @@
 </p>
 <p align="center">
  <img width="200px" src="https://github.com/liankorExe/liankorExe/blob/main/pp.jpg" border-radius="30px" align="center" alt="GitHub Readme Stats" />
- <h3 align="center">🛎・Me</h3>
+ <h2 align="center">🛎・Me</h2>
 </p>
