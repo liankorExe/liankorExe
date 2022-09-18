@@ -10,7 +10,7 @@
         align="center" alt="GitHub Readme Stats" />
 </p>
 <p>
-<h2>👋・Hello, i'am liankor</h2>
+<h2 align="center">👋・Hello, i'am liankor</h2>
 <p>
     🇫🇷・I'am a French developer.
     I like Javascript, Html, Css and Python
